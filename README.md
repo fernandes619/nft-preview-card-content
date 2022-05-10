@@ -79,4 +79,4 @@ Essa é a solução do desafio [NFT preview card component challenge on Frontend
 
 - LinkedIn - [Fernandes Brito Filho](https://www.linkedin.com/in/Fernandes619/)
 - Frontend Mentor - [@Fernandesffb](https://www.frontendmentor.io/profile/Fernandesffb)
-- Website - [EM BREVE]
+- Website - [LiveSite](https://fernandes619-nftcard.netlify.app/)
